@@ -1,0 +1,18 @@
+{
+    "usuarios": [
+    {   
+    "id": 1,
+    "nome": "John Doe",
+    "idade": 30,
+    "email": "john@example.com",
+    "hobbies": ["Leitura", "Jogos"]
+    },
+    {
+    "id": 2,
+    "nome": "Jane Doe",
+    "idade": 28,
+    "email": "jane@example.com",
+    "hobbies": ["Cozinhar", "Dançar"]
+    }
+    ]
+}
